@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\ackpass\WheelViewDemo\app\src\main\res"/><source path="D:\ackpass\WheelViewDemo\app\build\generated\res\rs\debug"/><source path="D:\ackpass\WheelViewDemo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\ackpass\WheelViewDemo\app\src\main\res"><file name="wheel_bg" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ackpass\WheelViewDemo\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="D:\ackpass\WheelViewDemo\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="wheel_date" path="D:\ackpass\WheelViewDemo\app\src\main\res\layout\wheel_date.xml" qualifiers="" type="layout"/><file name="wheel_password" path="D:\ackpass\WheelViewDemo\app\src\main\res\layout\wheel_password.xml" qualifiers="" type="layout"/><file name="main" path="D:\ackpass\WheelViewDemo\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values\gallery_attrs.xml" qualifiers=""><attr format="reference" name="entries"/><attr name="gravity">
+        
+        <flag name="top" value="0x30"/>
+        
+        <flag name="bottom" value="0x50"/>
+        
+        <flag name="left" value="0x03"/>
+        
+        <flag name="right" value="0x05"/>
+        
+        <flag name="center_vertical" value="0x10"/>
+        
+        <flag name="fill_vertical" value="0x70"/>
+        
+        <flag name="center_horizontal" value="0x01"/>
+        
+        <flag name="fill_horizontal" value="0x07"/>
+        
+        <flag name="center" value="0x11"/>
+        
+        <flag name="fill" value="0x77"/>
+        
+        <flag name="clip_vertical" value="0x80"/>
+        
+        <flag name="clip_horizontal" value="0x08"/>
+    </attr><attr format="reference" name="galleryStyle"/><declare-styleable name="Gallery">
+        <attr name="gravity"/>
+        
+        <attr format="integer" min="0" name="animationDuration"/>
+        <attr format="dimension" name="spacing"/>
+        
+        <attr format="float" name="unselectedAlpha"/>
+    </declare-styleable><declare-styleable name="AbsSpinner">
+        <attr name="entries"/>
+    </declare-styleable></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">WheelViewDemo</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\ackpass\WheelViewDemo\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="D:\ackpass\WheelViewDemo\app\build\generated\res\rs\debug"/><source path="D:\ackpass\WheelViewDemo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\ackpass\WheelViewDemo\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\ackpass\WheelViewDemo\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="Gallery"><attr name="gravity"/><attr format="integer" min="0" name="animationDuration"/><attr format="dimension" name="spacing"/><attr format="float" name="unselectedAlpha"/></declare-styleable><declare-styleable name="AbsSpinner"><attr name="entries"/></declare-styleable></configuration></mergedItems></merger>
